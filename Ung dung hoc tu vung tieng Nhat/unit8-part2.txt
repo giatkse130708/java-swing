@@ -1,0 +1,26 @@
+null;せんぱい; Tiền bối, người đi trước, đàn anh đàn chị
+後輩; こうはい; Hậu bối, người vào sau, đàn em
+null;うさぎ; Con thỏ
+体; からだ; Thân thể, cơ thể, sức khỏe
+足; あし; Chân
+顔; かお; Mặt, khuôn mặt
+髪; かみ; Tóc
+口; くち; Miệng
+鼻; はな; Mũi
+目; め; Mắt
+耳; みみ; Tai
+頭がいい; あたまがいい; Thông minh
+null;かっこいい; Bảnh bao, đẹp trai
+null;かわいい; Đáng yêu, dễ thương
+背が高い; せがたかい; Cao (dáng người)
+長い; ながい; Dài
+短い; みじかい; Ngắn
+優しい; やさしい; Hiền lành
+黒い; くろい; Đen, màu đen
+白い; しろい; Trắng, màu trắng
+茶色い; ちゃいろい ;Màu nâu
+元気（な）; げんき（な）; Khỏe mạnh
+親切（な）; しんせつ（な）; Tốt bụng
+null;まじめ（な）; Chăm chỉ, cần mẫn
+上手（な）; じょうず（な）; Giỏi
+下手（な）; へた（な）; Kém

@@ -1,0 +1,27 @@
+会話 ;かいわ ;Hội thoại
+作文; さくぶん ;Tập làm văn, viết văn
+null;クラスメイト; Bạn cùng lớp
+雑誌; ざっし; Tạp chí
+null;ジョギング; Chạy bộ (tập thể dục)
+生活 ;せいかつ; Cuộc sống, sinh hoạt
+店長; てんちょう; Chủ cửa hàng
+日記 ;にっき ;Nhật kí
+初め ;はじめ ;Đầu, ban đầu
+一人暮らし; ひとりくらし; Sống một mình
+null;ひらがな; Chữ Hiragana
+平日; へいじつ; Ngày thường
+毎週 ;まいしゅう; Hàng tuần
+終わります;［終わる］ 1 おわります ;Kết thúc
+通います;［通う］ 1 かよいます; Đi (học, làm)
+null;ひきます［ひく］ 1 ;Chơi (dụng cụ âm nhạc)
+休みます;［休む］ 1 やすみます; Nghỉ
+null;学校を休みます。; Nghỉ học
+慣れます;［慣れる］ 2 なれます; Quen
+忘れます;［忘れる］ 2 わすれます; Quên
+散歩します;［散歩する］ 3 さんぽします; Đi dạo
+厳しい; きびしい ;Ngiêm khắc
+眠い; ねむい; Buồn ngủ
+null;たいてい ;Đại để/ Đại khái
+null;なかなか; Mãi mà
+null;ええ; Ừ/ Vâng
+頭;あたま; Đầu

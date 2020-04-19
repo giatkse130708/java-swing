@@ -1,0 +1,13 @@
+null;オリンピック ;Đại hội thể thao Olympic
+外国; がいこく; Nước ngoài
+小学生; しょうがくせい; Học sinh tiểu học, cấp 1
+中学生; ちゅうがくせい; Học sinh trung học, cấp 2
+選手; せんしゅ; Tuyển thủ / Cầu thủ
+祖父; そふ; Ông
+始めます;［始める］ 2 はじめます; Bắt đầu
+別れます;［別れる］ 2 わかれます; Chia tay
+卒業します;［卒業する］ 3 そつきょう・します; Tốt nghiệp
+入学します;［入学する］ 3 にゅうがく・します; Nhập học
+null;だんだん; Dần dần
+初めて; はじめて; Lần đầu tiên
+null; それで; Vì thế / Vì vậy

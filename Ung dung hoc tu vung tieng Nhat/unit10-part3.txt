@@ -1,0 +1,29 @@
+動物園; どうぶつえん; Vườn bách thú
+null;クマ; Gấu
+null;コアラ; Gấu Kao-la
+null;サル; Khỉ
+null;ゾウ; Voi
+鳥; とり; Chim
+null;パンダ; Gấu trúc
+null;ペンギン; Chim cánh cụt
+入り口; いりぐち; Cửa vào/ Lối vào
+出口; でぐち; Cửa ra/ Lối ra
+null;えさ; Mồi / Thức ăn cho động vật
+null;おなか; Bụng
+観覧車; かんらんしゃ; Xe tham quan
+null; バナナ; Chuối
+null; ボール; Bóng
+null; ～たち; Các ～ / Bọn ～ (số nhiều)
+歩きます［歩く］ 1; あるきます; Đi bộ
+飛びます［飛ぶ］ 1; とびます; Bay
+null;なります「なる」 1; Trở nên/ Trở thành
+休みます［休む］ 1; やすみます; Nghỉ
+null;あそこのベンチで休みましょう; Cùng nghỉ ở ghế băng kia nào!
+null;やります［やる］ 1 ;Cho
+null;おなかがすきます［すく］ 1; Đói
+null;のどがかわきます［かわく］ 1; Khát
+疲れます「疲れる」 2; つかれます; Mệt
+痛い; いたい ;Đau
+暗い ;くらい ;Tối
+null;そろそろ ;Đến lúc phải~
+本当だ; ほんとうだ ;Thật

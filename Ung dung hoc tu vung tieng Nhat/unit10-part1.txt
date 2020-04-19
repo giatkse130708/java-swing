@@ -1,0 +1,23 @@
+音; おと; Âm thanh, tiếng động
+声; こえ; Giọng nói
+薬; くすり; Thuốc (uống, bôi…)
+右; みぎ; Bên phải
+左; ひだり; Bên trái
+角; かど; Góc đường
+交差点; こうさてん; Ngã tư
+信号; しんごう; Tín hiệu / Đèn giao thông
+橋; はし; Cầu
+道; みち; Đường
+～つ目; ～つめ; Thứ ~ (đếm thứ tự)
+探します［探す］ 1; さがします; Tìm kiếm/Tìm
+飲みます［飲む］ 1; のみます ;Uống
+null;薬(くすり)を飲(の)みます; Uống thuốc
+曲がります［曲がる］ 1; まがります ;Rẽ/ Quẹo
+渡ります［渡る］; 1 わたります ;Qua, băng qua
+聞こえます［聞こえる］ 2; きこえます ;Nghe thấy / Nghe được
+見えます［見える］ 2; みえます; Nhìn thấy / Nhìn được
+null;まっすぐ; Thẳng
+null;よく; Rõ
+null;よくわかりません。 ;(Tôi) không hiểu rõ.
+null;ちょっと; Một chút
+null;ええと; À, ờ

@@ -1,0 +1,10 @@
+null;エアコン; Điều hòa
+null;ニュース; Tin tức
+消します;［消す］ 1 けします; Tắt
+null;つけます［つける ］ 2; Bật
+引越し します;［引越し する］ 3 ひっこしします ;Chuyển nhà
+null;うん; Vâng (thân mật)
+null;ううん; Không (thân mật)
+null;ごめん; Xin lỗi
+null;;そっか; Thế à!
+null;また; Lại

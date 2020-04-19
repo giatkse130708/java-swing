@@ -1,0 +1,24 @@
+両親 ;りょうしん; Bố mẹ (của mình)
+父 ;ちち; Bố (của mình)
+母 ;はは; Mẹ (của mình)
+兄弟 ;きょうだい; Anh chị
+兄 ;あに ;Anh trai (của mình)
+姉 ;あね; Chị gái (của mình)
+弟; おとうと; Em trai (của mình)
+妹; いもうと; Em gái (của mình)
+夫 ;おっと;Chồng (của mình)
+妻 ;つま ;Vợ (của mình)
+子ども ;こども ;Con (của mình)
+息子 ;むすこ ;Con trai (của mình)
+null;むすめ ;Con gái (của mình)
+お父さん; おとうさん ;Bố (của người khác)
+お母さん ;おかあさん; Mẹ (của người khác)
+お兄さん; おにいさん; Anh trai (của người khác)
+お姉さん; おねえさん; Chị gái (của người khác)
+弟さん ;おとうとさん; Em trai (của người khác)
+妹さん; いもうとさん ;Em gái (của người khác)
+お子さん; おこさん ;Con (của người khác)
+nill;ペット; Thú nuôi
+猫; ねこ; Con mèo
+null;ピアノ; Đàn piano
+医者 ;いしゃ ;Bác sỹ

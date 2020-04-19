@@ -1,0 +1,24 @@
+null;カード; Thẻ / Thiệp
+null;友達(ともだち)の誕生日(たんじょうび)にカ ードを送(おく)り ます。; Tôi gửi thiệp mừng cho bạn tôi vào ngày sinh nhật.
+傘; かさ; Ô, cái ô
+（お）金; （お）かね; Tiền
+靴下; くつした; Đôi tất
+辞書 ;じしょ ;Từ điển
+null;チョコレート; Sô cô la
+手紙; てがみ; Thư
+null;ネックレス; Vòng cổ
+null;ノート; Vở, quyển vở
+null;プレゼント; Quà, món quà
+null;メール; Thư, thư điện tử
+祖母; そぼ; Bà (của mình)
+null;クリスマス; Giáng sinh
+結婚式; けっこんしき; Lễ kết hôn
+null;バレンタインデー; Ngày lễ tình nhân
+何か; なにか; Cái gì đó
+送ります［送る］ 1; おくります; Gửi / Tiễn
+null;もらいます［もらう］ 1; Nhận
+null;あげます［あげる］ 2; Tặng, biếu
+null;くれます［くれる］ 2 ;Cho (mình)
+電話します［電話する］ 3; でんわします; Gọi điện thoại
+null;もうすぐ ;Sắp, sắp sửa
+null;よかったですね; Tốt quá nhỉ!

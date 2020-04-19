@@ -1,0 +1,18 @@
+null;イベント; Sự kiện
+null;コンテスト; Cuộc thi
+食堂 ;しょくどう; Nhà ăn
+null;ダイビング; Sự lặn xuống, lao xuống
+null;ダンス; Khiêu vũ
+null;～クラブ（例：ダンスクラブ）; Câu lạc bộ ～ (Vd: câu lạc bộ khiêu vũ)
+～教室（例： 書道教室 (しょどうきょうしつ)）;きょうしつ; Lớp học ～ (Vd: lớp học thư pháp)
+習います［習う］ 1; ならいます; Học
+乗ります［乗る］ 1 ;のります ;Lên
+入ります［入る］ 1; はいります; Vào, đi vào; Gia nhập, tham gia
+null;ダンスクラブに入(はい)ります。; Tham gia câu lạc bộ khiêu vũ
+申し 込みます［申し 込む］ 1; もうしこみます; Xin, thỉnh cầu,đăng ký
+null;できます［できる］ 2; Có thể
+null;スキーができます。; Tôi có thể trượt tuyết
+参加します［参加する］ 3; さんかします; Tham gia
+null;すごい; Kinh khủng / Tuyệt vời
+null;いろいろな; Nhiều, đa dạng
+上手に; じょうずに; Thành thạo

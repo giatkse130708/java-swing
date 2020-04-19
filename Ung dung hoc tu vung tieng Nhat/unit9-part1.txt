@@ -1,0 +1,34 @@
+null;アクション; Hành động
+（お） 菓子; （お）かし; Bánh kẹo
+切手; きって ;Tem
+null;クラシック; Nhạc cổ điển
+null;ポップス; Nhạc Pop
+小説; しょうせつ ;Tiểu thuyết
+漫画; まんが ;Truyện tranh
+釣り; つり ;Câu cá
+null;ドラマ ;Phim truyền hình
+null;プール ;Bể bơi
+最近; さいきん ;Gần đây
+～日; ～にち; ～ ngày
+～週間;～しゅうかん; ～ tuần
+～か月; ～かげつ; ～ tháng
+～年 ;～ねん; ～ năm
+～回; ～かい ;～ lần
+～冊 ;～さつ; ～ quyển
+～杯; ～はい; ～ ly, cốc (đơn vị đếm ly, bát…)
+～本 ;～ほん ;～ cái, chiếc, cây (đơn vị đếm vật có chiều dài)
+～料理（例：イタリア料理） ;～りょうり ;Món ～ (Vd: món Ý)
+泳ぎます［泳ぐ］ 1; およぎます; Bơi
+描きます［描く］ 1 ;かきます; Vẽ, tả
+集めます［集める］ 2 ;あつめます ;Thu thập, tập hợp
+運転します［運転する］ 3; うんてんします; Lái (xe)
+特に; とくに ;Đặc biệt
+null;いつも; Luôn, thường xuyên, luôn luôn
+null;よく ;Thường, hay, rất
+null;私(わたし)はよく 映画(え い が)を見(み)ます。; Tôi thường xem phim.
+null;ときどき; Thỉnh thoảng, đôi khi
+null;あまり; Không ～ lắm
+null;あまりテレビを見(み)ません。; Tôi không xem ti vi nhiều lắm.
+全然 ;ぜんぜん; Hoàn toàn không ～
+null;でも ;Nhưng, tuy nhiên
+null;だけ; Chỉ
